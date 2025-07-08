@@ -1,15 +1,15 @@
 {
-  "name": "sri todo ",
+  "name": "sri-todo",
   "author": {
-    "name": "Maciej Twaróg",
-    "url": "https://github.com/maciekt07"
+    "name": "Srinidhi",
+    "url": "https://github.com/SrinidhiAravindhan"
   },
   "private": true,
   "type": "module",
-  "homepage": "https://react-cool-todo-app.netlify.app/",
+  "homepage": "https://SrinidhiAravindhan.github.io/ToDo-sri/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maciekt07/TodoApp.git"
+    "url": "git+https://github.com/SrinidhiAravindhan/ToDo-sri.git"
   },
   "license": "MIT",
   "scripts": {
